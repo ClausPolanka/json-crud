@@ -1,3 +1,7 @@
+# Webstorm generated #
+######################
+.idea/
+
 # Compiled source #
 ###################
 *.com
@@ -37,4 +41,3 @@ node_modules/
 ehthumbs.db
 Thumbs.db
 *~
-
